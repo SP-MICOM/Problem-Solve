@@ -24,7 +24,6 @@ void main()
 
 #pragma endregion
 
-
 #pragma region if문
 	// 어떤 특정한 조건을 비교하여 조건이 맞다면 실행되는
 	// 명령문입니다.
@@ -63,23 +62,39 @@ void main()
 	// if문과 else if문의 조건이 다 틀리면
 	// 실행되는 명령문입니다.
 
-	int integer = 0;
-
-	if (integer > 0)
-	{
-		printf("amnioctic fluid");
-	}
-	else if (integer < 0)
-	{
-		printf("negative");
-	}
-	else
-	{
-		printf("integer");
-	}
+	//int integer = 0;
+	//
+	//if (integer > 0)
+	//{
+	//	printf("amnioctic fluid");
+	//}
+	//else if (integer < 0)
+	//{
+	//	printf("negative");
+	//}
+	//else
+	//{
+	//	printf("integer");
+	//}
 
 	// if문에 연결된 모든 조건문의 조건이 맞을 때
 	// 가장 위에 있는 조건문만 실행됩니다.
+#pragma endregion
+
+#pragma region switch문
+	// 어떤 결과에 따라 그 결과부터 실행되는 명령문입니다.
+
+	char grade = 'A';
+
+	switch (grade)
+	{
+	case 'A': printf("100 ~ 90점입니다.");
+	case 'B': printf("89 ~ 80점입니다.");
+	case 'C': printf("79 ~ 70점입니다.");
+	case 'D': printf("69 ~ 60점입니다.");
+	case 'F': printf("60점 미만 점수입니다.");
+	}
+
 #pragma endregion
 
 
