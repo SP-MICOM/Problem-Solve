@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th (비트)", "..\Cla
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Overflow & Underflow)", "..\Class4th (Overflow & Underflow)\Class4th (Overflow & Underflow).vcxproj", "{2D6F1F46-1A37-425F-BE51-CC302611AD8A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th (Conditional Statement)", "..\Class5th (Conditional Statement)\Class5th (Conditional Statement).vcxproj", "{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{2D6F1F46-1A37-425F-BE51-CC302611AD8A}.Release|x64.Build.0 = Release|x64
 		{2D6F1F46-1A37-425F-BE51-CC302611AD8A}.Release|x86.ActiveCfg = Release|Win32
 		{2D6F1F46-1A37-425F-BE51-CC302611AD8A}.Release|x86.Build.0 = Release|Win32
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Debug|x64.ActiveCfg = Debug|x64
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Debug|x64.Build.0 = Debug|x64
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Debug|x86.ActiveCfg = Debug|Win32
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Debug|x86.Build.0 = Debug|Win32
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Release|x64.ActiveCfg = Release|x64
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Release|x64.Build.0 = Release|x64
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Release|x86.ActiveCfg = Release|Win32
+		{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
