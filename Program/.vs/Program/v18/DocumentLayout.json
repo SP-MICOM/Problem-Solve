@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{CF0B2E5D-1302-44F1-9606-BC416E4F1E45}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FCF788FD-7EB2-42AB-8E65-23C36D660C50}|..\\Class7th (Type Conversion)\\Class7th (Type Conversion).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Problem-Solve\\Class7th (Type Conversion)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9F546D0-E48E-43AE-BBFD-A8724E2EE789}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Problem-Solve\\Class5th (Conditional Statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,11 +20,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Problem-Solve\\Class7th (Type Conversion)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class7th (Type Conversion)\\Source.c",
+              "ToolTip": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Problem-Solve\\Class7th (Type Conversion)\\Source.c",
+              "RelativeToolTip": "..\\Class7th (Type Conversion)\\Source.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-22T11:04:08.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Problem-Solve\\Class5th (Conditional Statement)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\Source.c",
@@ -29,8 +45,7 @@
               "RelativeToolTip": "..\\Class5th (Conditional Statement)\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-18T11:17:13.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T11:17:13.111Z"
             },
             {
               "$type": "Document",
@@ -40,7 +55,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\iheug\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Problem-Solve\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-12T10:58:02.901Z",
               "EditorCaption": ""
