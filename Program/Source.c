@@ -79,8 +79,22 @@ void main()
 #pragma endregion
 
 #pragma region 구구단
-
 	// 과제 : 중첩 반복문 → 구구단 제작
+
+	int an = 1;
+	int result = 0;
+
+	while (an < 9)
+	{
+		++an;
+		printf("%d단\n", an);
+		for (int i = 1; i <= 9; i++)
+		{
+			result = an * i;
+			printf("%d x %d = %d\n", an, i, result);
+		}
+		printf("\n");
+	}
 
 #pragma endregion
 
