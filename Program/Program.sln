@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 18
-VisualStudioVersion = 18.1.11304.174 d18.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Program.vcxproj", "{CF0B2E5D-1302-44F1-9606-BC416E4F1E45}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class11th (Storage)", "..\Class11th (Storage)\Class11th (Storage).vcxproj", "{6A28E9CD-C24E-4B75-87E7-ADC3D2155089}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class12th (Dynamic Alocation)", "..\Class12th (Dynamic Alocation)\Class12th (Dynamic Alocation).vcxproj", "{40DF51FA-06B6-4AAE-879D-53455FFBE570}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class13th (Struct)", "..\Class13th (Struct)\Class13th (Struct).vcxproj", "{91756546-9BB4-4889-A061-9A6B41541D73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +133,14 @@ Global
 		{40DF51FA-06B6-4AAE-879D-53455FFBE570}.Release|x64.Build.0 = Release|x64
 		{40DF51FA-06B6-4AAE-879D-53455FFBE570}.Release|x86.ActiveCfg = Release|Win32
 		{40DF51FA-06B6-4AAE-879D-53455FFBE570}.Release|x86.Build.0 = Release|Win32
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Debug|x64.ActiveCfg = Debug|x64
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Debug|x64.Build.0 = Debug|x64
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Debug|x86.ActiveCfg = Debug|Win32
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Debug|x86.Build.0 = Debug|Win32
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Release|x64.ActiveCfg = Release|x64
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Release|x64.Build.0 = Release|x64
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Release|x86.ActiveCfg = Release|Win32
+		{91756546-9BB4-4889-A061-9A6B41541D73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

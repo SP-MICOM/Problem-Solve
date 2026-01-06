@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{CF0B2E5D-1302-44F1-9606-BC416E4F1E45}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{91756546-9BB4-4889-A061-9A6B41541D73}|..\\Class13th (Struct)\\Class13th (Struct).vcxproj|C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Class13th (Struct)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2D79AD6-D7B9-442D-8B8B-2177EEE42635}|..\\Class10th (Function)\\Class10th (Function).vcxproj|C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Class10th (Function)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -23,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,14 +36,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Class13th (Struct)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class13th (Struct)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Class13th (Struct)\\Source.c",
+              "RelativeToolTip": "..\\Class13th (Struct)\\Source.c",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T12:27:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Class10th (Function)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class10th (Function)\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Class10th (Function)\\Source.c",
               "RelativeToolTip": "..\\Class10th (Function)\\Source.c",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-02T12:33:25.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T12:33:25.023Z"
             },
             {
               "$type": "Document",
@@ -50,14 +65,14 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-02T12:02:39.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Microsoft.CppBuild.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
@@ -65,12 +80,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "ViewState": "AgIAALkBAAAAAAAAAAAwwMoBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-01-02T11:41:52.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T11:41:52.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Problem-Solve\\Class8th (Pointer)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class8th (Pointer)\\Source.c",
@@ -78,8 +92,7 @@
               "RelativeToolTip": "..\\Class8th (Pointer)\\Source.c",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-02T11:29:26.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T11:29:26.406Z"
             }
           ]
         }
